@@ -1,2 +1,2 @@
-#My App
-This is my first application using git in Github...
+# MyApp
+My sample application using git
